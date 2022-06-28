@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dusan/Desktop/8_semestar/system_level/project_9/project_9.srcs/sources_1/new/delitelj32.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'delitelj32'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Dusan/Desktop/8_semestar/system_level/project_9/project_9.srcs/sim_1/new/div_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'div_tb'
